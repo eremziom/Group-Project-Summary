@@ -14,7 +14,18 @@
 
 ### Zadania
 
-|  NAZWA TASKA   | PUNKTY | STATUS | LINK |
-| -------------  | ------ | ------ | ---- |
-|  WDP191201-3   | 1      | DONE   | https://projects.kodilla.com/secure/RapidBoard.jspa?rapidView=69&projectKey=WDP191201&view=detail&selectedIssue=WDP191201-3 |
-|  WDP191201-13  | 3      | DONE   | https://projects.kodilla.com/secure/RapidBoard.jspa?rapidView=69&projectKey=WDP191201&view=detail&selectedIssue=WDP191201-13 |
+|  NAZWA TASKA  | PUNKTY | STATUS | LINK |
+| ------------- | ------ | ------ | ---- |
+|  WDP191201-3  | 1      | DONE   | https://projects.kodilla.com/secure/RapidBoard.jspa?rapidView=69&projectKey=WDP191201&view=detail&selectedIssue=WDP191201-3 |
+|  WDP191201-13 | 3      | DONE   | https://projects.kodilla.com/secure/RapidBoard.jspa?rapidView=69&projectKey=WDP191201&view=detail&selectedIssue=WDP191201-13 |
+|  WDP191201-19 | 2      | DONE   | https://projects.kodilla.com/secure/RapidBoard.jspa?rapidView=69&projectKey=WDP191201&view=detail&selectedIssue=WDP191201-19 |
+|  WDP191201-34 | 2      | DONE   | https://projects.kodilla.com/secure/RapidBoard.jspa?rapidView=69&projectKey=WDP191201&view=detail&selectedIssue=WDP191201-34 |
+|  WDP191201-38 | 2      | DONE   | https://projects.kodilla.com/secure/RapidBoard.jspa?rapidView=69&projectKey=WDP191201&view=detail&selectedIssue=WDP191201-38 |
+|  WDP191201-40 | 1      | DONE   | https://projects.kodilla.com/secure/RapidBoard.jspa?rapidView=69&projectKey=WDP191201&view=detail&selectedIssue=WDP191201-40 |
+|  WDP191201-42 | 1      | DONE   | https://projects.kodilla.com/secure/RapidBoard.jspa?rapidView=69&projectKey=WDP191201&view=detail&selectedIssue=WDP191201-42 |
+|  WDP191201-47 | 2      | DONE   | https://projects.kodilla.com/secure/RapidBoard.jspa?rapidView=69&projectKey=WDP191201&view=detail&selectedIssue=WDP191201-47 |
+
+##### W sumie:
+| Liczba Zadań: | Liczba Punktów: | Liczba Zadań Niedokończonych: |
+| ------------- | --------------- | ------------- |
+| **8**             | **14**              | **0** |
