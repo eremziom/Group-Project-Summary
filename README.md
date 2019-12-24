@@ -14,7 +14,7 @@
 
 ### Zadania
 
-|  NAZWA TASKA  | PUNKTY | STATUS | LINK |
-| ------------- | ------ | ------ | ---- |
-|  WDP191201-3  | 1      | DONE   | https://projects.kodilla.com/secure/RapidBoard.jspa?rapidView=69&projectKey=WDP191201&view=detail&selectedIssue=WDP191201-3 |
-|  WDP191201-13 | 3      | DONE   | https://projects.kodilla.com/secure/RapidBoard.jspa?rapidView=69&projectKey=WDP191201&view=detail&selectedIssue=WDP191201-13 |
+|  NAZWA TASKA   | PUNKTY | STATUS | LINK |
+| -------------  | ------ | ------ | ---- |
+|  WDP191201-3   | 1      | DONE   | https://projects.kodilla.com/secure/RapidBoard.jspa?rapidView=69&projectKey=WDP191201&view=detail&selectedIssue=WDP191201-3 |
+|  WDP191201-13  | 3      | DONE   | https://projects.kodilla.com/secure/RapidBoard.jspa?rapidView=69&projectKey=WDP191201&view=detail&selectedIssue=WDP191201-13 |
